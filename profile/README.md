@@ -40,9 +40,16 @@ To become a leading reference in **digital vaults**, providing advanced technolo
 - **Legacy** – Ensure that essential assets and information are protected and accessible when needed.
 
 ---
+## **Tools**
+ Business Model Canva [Business Model Canvas](https://bmcanvas.app/business-model-canvas-app/)
+ 
+ Canva: [Canva](https://www.canva.com/)
+
+---
 
 ## **Contact**
 
 **AfterYou – Digital Vault**  
 Email: afteryouhub@gmail.com 
-Website: [https://afteryou.com](https://afteryou.com)
+
+Website: [https://afteryou.com](https://afteryou.com
